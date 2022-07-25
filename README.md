@@ -7,7 +7,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Contact]
+* [Contact](#Contact)
 
 
 
